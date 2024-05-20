@@ -1,4 +1,4 @@
-# React App Prototype: To Do List (with Test)
+# React App Prototype: To Do List (with Tests)
 
 ## Overview
 
