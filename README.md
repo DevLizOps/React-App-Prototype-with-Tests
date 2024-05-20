@@ -14,7 +14,10 @@ Instructions for installing and running your application locally.
 
 1. Clone this repository and navigate to the project directory.
 ```
-git clone https://github.com/LizzyMaken/Aplicacion-React-basada-en-componentes.git
+git clone https://github.com/LizzyMaken/React-App-Prototype-with-Tests.git
+```
+```
+cd React-App-Prototype-with-Tests
 ```
 
 2. Install dependencies:
@@ -59,7 +62,10 @@ Instrucciones para instalar y ejecutar tu aplicación localmente.
 
 1. Clona este repositorio y muévete al directorio del proyecto.
 ```
-git clone https://github.com/LizzyMaken/Aplicacion-React-basada-en-componentes.git
+git clone https://github.com/LizzyMaken/React-App-Prototype-with-Tests.git
+```
+```
+cd React-App-Prototype-with-Tests
 ```
 
 2. Instala las dependencias:
