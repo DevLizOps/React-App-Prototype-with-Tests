@@ -1,10 +1,10 @@
+[Haz click para la versión en Español](#version-en-espanol)
+
+## English Version
+
 # React App Prototype: To Do List (with Tests)
 
 ## Overview
-
-| [English Version](#english-version) | [Versión en Español](#version-en-espanol) |
-
-## <a name="english-version">English Version</a>
 
 This is a simple to-do list application built with React. It allows adding, editing, and deleting tasks.
 
@@ -13,22 +13,18 @@ This is a simple to-do list application built with React. It allows adding, edit
 Instructions for installing and running your application locally.
 
 1. Clone this repository and navigate to the project directory.
-```
-git clone https://github.com/LizzyMaken/React-App-Prototype-with-Tests.git
-```
-```
-cd React-App-Prototype-with-Tests
-```
+
+       git clone https://github.com/LizzyMaken/React-App-Prototype-with-Tests.git
+       cd React-App-Prototype-with-Tests
+
 
 2. Install dependencies:
-```
-npm install
-```
+
+       npm install
 
 3. Start the application:
-```
-npm start
-```
+
+       npm start
 
 ### Usage
 
@@ -46,13 +42,14 @@ To run the tests, follow these steps:
 2. Open a new terminal and navigate to your project directory.
 
 3. Run the following command:
-```
-npm test
-```
+
+       npm test
 
 This will start the test runner and run all the tests included in the application. You will see the test results in the terminal.
 
-## <a name="version-en-espanol">Versión en Español</a>
+[Click here for the English Version](#english-version)
+
+## Versión en Español
 
 Esta es una aplicación simple de lista de tareas construida con React. Permite añadir, editar y eliminar tareas.
 
@@ -61,22 +58,17 @@ Esta es una aplicación simple de lista de tareas construida con React. Permite 
 Instrucciones para instalar y ejecutar tu aplicación localmente.
 
 1. Clona este repositorio y muévete al directorio del proyecto.
-```
-git clone https://github.com/LizzyMaken/React-App-Prototype-with-Tests.git
-```
-```
-cd React-App-Prototype-with-Tests
-```
+
+       git clone https://github.com/LizzyMaken/React-App-Prototype-with-Tests.git
+       cd React-App-Prototype-with-Tests
 
 2. Instala las dependencias:
-```
-npm install
-```
+
+       npm install
 
 3. Inicia la aplicación:
-```
-npm start
-```
+
+       npm start
 
 ### Uso
 
@@ -94,8 +86,7 @@ Para ejecutar las pruebas, sigue estos pasos:
 2. Abre una nueva terminal y navega hasta el directorio de tu proyecto.
 
 3. Ejecuta el siguiente comando:
-```
-npm test
-```
+
+       npm test
 
 Esto iniciará el corredor de pruebas y ejecutará todas las pruebas incluidas en la aplicación. Verás los resultados de las pruebas en la terminal.
