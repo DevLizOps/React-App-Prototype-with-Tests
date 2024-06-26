@@ -1,6 +1,6 @@
-[Haz click para la versión en Español](#version-en-espanol)
-
 ## English Version
+
+[Haz click aquí para la versión en Español](#versión-en-español)
 
 # React App Prototype: To Do List (with Tests)
 
@@ -47,9 +47,10 @@ To run the tests, follow these steps:
 
 This will start the test runner and run all the tests included in the application. You will see the test results in the terminal.
 
-[Click here for the English Version](#english-version)
-
+---
 ## Versión en Español
+
+[Click here for the English Version](#english-version)
 
 Esta es una aplicación simple de lista de tareas construida con React. Permite añadir, editar y eliminar tareas.
 
